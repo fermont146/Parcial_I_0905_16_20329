@@ -1,0 +1,9 @@
+.imagen {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.imagen img {
+    max-width: 100%;
+    height: auto;
+}
